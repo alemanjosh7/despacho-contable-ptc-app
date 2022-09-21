@@ -5,7 +5,7 @@
 /*
 *   Constante para establecer la ruta del servidor.
 */
-const SERVER = 'http://192.168.18.210/despacho-contable-ptc/api/';
+const SERVER = 'http://192.168.18.210/despEsquivel/api/';
 const API = SERVER + 'dashboard/admins.php?action=';
 
 /*
